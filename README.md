@@ -1,6 +1,6 @@
-# Pre-work - Tip Drill
+# Pre-work - TipDrill
 
-Tip Drill is a tip calculator application for iOS.
+TipDrill is a tip calculator application for iOS.
 
 Submitted by: Daniel Liu
 
