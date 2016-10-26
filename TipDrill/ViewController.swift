@@ -26,6 +26,8 @@ class ViewController: UIViewController {
         
         let defaults = UserDefaults.standard
         tipControl.selectedSegmentIndex = defaults.integer(forKey: "tipAmountSelected")
+        
+        calculateTip(self)
     }
     
     override func viewDidAppear(_ animated: Bool) {
